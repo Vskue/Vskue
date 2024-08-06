@@ -1,5 +1,10 @@
-## About me ฅ^•ﻌ•^ฅ
+<!DOCTYPE html>
+<html>
+<body>
+	<h1>Hi, I'm Victoria! </h1>
+</body>
+</html>
 
-### Hi, I'm Victoria Kue! 
-I'm an aspiring Data Analyst with a passion for finance. Currently, on my journey to mastering data analysis, particularly with R. 
-I have a lovely cat named Luna who keeps me company during my studies. I'm excited to connect with others and share my learning experiences here on GitHub.
+- 👩‍💻 Aspiring Data Analyst on my journey to mastering data analysis, particularly with R. 
+- 🐈‍⬛ I have a lovely cat named Luna who keeps me company during my studies.
+- 🙇‍♀️ Excited to connect with others and share my learning experiences here on GitHub.
